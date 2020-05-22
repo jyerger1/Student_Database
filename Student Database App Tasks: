@@ -1,0 +1,14 @@
+Student Database App Tasks:
+
+Ask the user how many n ew students will be added to the Database
+The user should be prompted to enter the name and year for each Student
+the student should have a 5 digit unique id, with the first number being their grade level
+a student can enroll in the following courses:
+    history 101
+    mathematics 101
+    english 101
+    chemistry 101
+    computer science 101
+Each course costs $600 to enroll
+The student should be able to view their balance and pay the tuition
+To see the status of the student, we should see their names, id , courses enrolled, and balance
